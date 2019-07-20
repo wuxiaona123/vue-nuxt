@@ -1,0 +1,21 @@
+{
+  "name": "mynuxt",
+  "version": "1.0.0",
+  "description": "My divine Nuxt.js project",
+  "author": "wuxiaona123",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "mint-ui": "^2.2.13",
+    "nuxt": "^2.0.0",
+    "vue-amap": "^0.5.10"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
